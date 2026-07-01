@@ -31,12 +31,3 @@ Tracking my daily learning progress across all courses and projects.
 ### July 3, 2026
 - Completed Introduction to IoT and Digital Transformation — Cisco Networking Academy
 
-
-
-
-
-
-
-
-### June 27, 2026
-- Completed Module 1 & 2 — Introduction to Sustainable Finance Taxonomies
