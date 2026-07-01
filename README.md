@@ -20,13 +20,15 @@ Tracking my daily learning progress across all courses and projects.
 - Completed Introduction to Sustainable Finance Taxonomies — UN CC:Learn (final exam)
 
 ### June 30, 2026
-- Completed Climate Change International Legal Regime — UN CC:Learn (final exam)
+- Completed Module 1 & 2 - Climate Change International Legal Regime
 
 ### July 1, 2026
-- Started Introduction to IoT and Digital Transformation — Cisco Networking Academy
-
+- Completed Climate Change International Legal Regime — UN CC:Learn (final exam)
 
 ### July 2, 2026
+- Started Introduction to IoT and Digital Transformation — Cisco Networking Academy
+
+### July 3, 2026
 - Completed Introduction to IoT and Digital Transformation — Cisco Networking Academy
 
 
