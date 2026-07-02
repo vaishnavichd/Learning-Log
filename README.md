@@ -6,7 +6,7 @@ Tracking my daily learning progress across all courses and projects.
 |--------|----------|--------|
 | Introduction to Sustainable Finance Taxonomies | UN CC:Learn | ✅ Completed |
 | Climate Change International Legal Regime | UN CC:Learn | ✅ Completed |
-| Introduction to IoT and Digital Transformation | Cisco Networking Academy | 🔄 In Progress |
+| Excel for Beginners | Great Learning | 🔄 In Progress |
 
 ## 📅 Daily Log
 
