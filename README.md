@@ -26,7 +26,7 @@ Tracking my daily learning progress across all courses and projects.
 - Completed Climate Change International Legal Regime — UN CC:Learn (final exam)
 
 ### July 2, 2026
-- Started Introduction to IoT and Digital Transformation — Cisco Networking Academy
+- Started Great Learning's Excel for Beginners course to master foundational data wrangling.
 
 ### July 3, 2026
 - Completed Introduction to IoT and Digital Transformation — Cisco Networking Academy
