@@ -27,5 +27,6 @@ Tracking my daily learning progress across all courses and projects.
 
 ### July 2, 2026
 - Started Great Learning's Excel for Beginners course to master foundational data wrangling.
-
-
+  
+### July 3, 2026
+- Took the first quiz in the Great Learning's Excel for Beginners course.
