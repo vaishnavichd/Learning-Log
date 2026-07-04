@@ -30,3 +30,6 @@ Tracking my daily learning progress across all courses and projects.
   
 ### July 3, 2026
 - Took the first quiz in the Great Learning's Excel for Beginners course.
+
+### July 4, 2026
+- Practiced excel exercises on wise owl training website.
