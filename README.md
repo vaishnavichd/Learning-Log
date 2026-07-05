@@ -25,11 +25,5 @@ Tracking my daily learning progress across all courses and projects.
 ### July 1, 2026
 - Completed Climate Change International Legal Regime — UN CC:Learn (final exam)
 
-### July 2, 2026
-- Started Great Learning's Excel for Beginners course to master foundational data wrangling.
-  
-### July 3, 2026
-- Took the first quiz in the Great Learning's Excel for Beginners course.
-
-### July 4, 2026
-- Practiced excel exercises on wise owl training website.
+### July 2, 2026- July 8, 2026
+- Completed the Great Learning's Excel for Beginners,practiced excel exercises on wise owl training website.
