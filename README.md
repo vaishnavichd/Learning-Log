@@ -27,3 +27,6 @@ Tracking my daily learning progress across all courses and projects.
 
 ### July 2, 2026- July 8, 2026
 - Completed the Great Learning's Excel for Beginners,practiced excel exercises on wise owl training website.
+
+### July 9,2026- July 20, 2026
+- Completed Cisco's Introduction to Data analysis course.
